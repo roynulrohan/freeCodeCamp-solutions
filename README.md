@@ -1,6 +1,6 @@
 # freeCodeCamp Coursework
 
-This repo contains my solutions for the courses on freeCodeCamp.com.
+This repo contains my solutions for the courses on <a href="freeCodeCamp.com">freeCodeCamp<a/>.
 
 So far I've only finished the JavaScipt Algorithms and Data Structures course which requires approximately 300 hours.
 
